@@ -1,0 +1,54 @@
+.header {
+  background-color: aquamarine;
+  height: 100px;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.num {
+  height: 50px;
+  width: 50px;
+  display: flex;
+  background-color: white;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 5px 5px 2px rgb(18, 72, 54);
+}
+
+.dk {
+  width: 100vw;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 30px;
+}
+.red {
+  background-color: rgb(203, 108, 108);
+  width: 20vw;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.red1 {
+  width: 80%;
+  height: 40px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 1px;
+  box-shadow: ;
+}
+.blue {
+  background-color: rgb(102, 102, 189);
+  width: 20vw;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
